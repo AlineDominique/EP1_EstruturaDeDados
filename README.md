@@ -1,7 +1,8 @@
 # 🎓 EP1 - Estrutura de Dados: Vale a pena ordenar?
 
 > **Course:** Análise e Desenvolvimento de Sistemas (FATEC-SJC)
-> **Topic:** Algorithmic Analysis & Sorting Performance
+
+> **Topic:** Analise de Algoritmo e Performace do Sortinge
 
 Este repositório contém o código do primeiro Exercício Prático (EP1) da disciplina de Estrutura de Dados. O objetivo do projeto foi realizar uma análise empírica comparando algoritmos de ordenação e busca para responder a uma pergunta clássica: *Quando o custo de ordenar um vetor é compensado pela eficiência da busca binária?*
 
